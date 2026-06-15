@@ -3,7 +3,7 @@ import time
 import os
 from logick import teras_model
 
-bot = telebot.TeleBot('8719727385:AAE96GL1q_pzTGGk53IQt_PWsbJolXivgVo')  
+bot = telebot.TeleBot('')  
 
 
 MODEL_PATH = "D:\progs\itogovi _proekte\converted_keras\keras_model.h5"          
